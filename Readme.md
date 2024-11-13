@@ -1,4 +1,4 @@
-# SPIMI Indexer Project Documentation
+# SPIMI Indexer Project
 
 ## Overview
 
